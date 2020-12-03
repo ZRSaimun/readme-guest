@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "readme-guest",
-  "description": "A tiny web app that turns a README into a guest",
+  "name": "readme-guestbook",
+  "description": "A tiny web app that turns a README into a guestbook",
   "main": "index.js",
   "scripts": {
     "start": "vercel dev",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zrsaimun/readme-guest.git"
+    "url": "git+https://github.com/zrsaimun/readme-guestbook.git"
   },
-  "author": "zrsaimun Etcovitch <zrsaimun@gmail.com>",
+  "author": "Jason Etcovitch <zrsaimun@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zrsaimun/readme-guest/issues"
+    "url": "https://github.com/zrsaimun/readme-guestbook/issues"
   },
-  "homepage": "https://github.com/zrsaimun/readme-guest#readme",
+  "homepage": "https://github.com/zrsaimun/readme-guestbook#readme",
   "dependencies": {
     "@octokit/rest": "^17.9.2",
     "date-fns": "^2.12.0",
